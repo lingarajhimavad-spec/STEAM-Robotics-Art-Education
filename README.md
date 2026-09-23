@@ -25,8 +25,7 @@ Computer vision
 AI-based projects
 
 ### AR and VR
-jungle safari
-a flower with AR
+educational theme 
 
 ### Laser Cutting & Fabrication
 Laser-cut projects
